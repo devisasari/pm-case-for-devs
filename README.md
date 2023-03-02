@@ -54,7 +54,7 @@ Additional Function: QR Payment
 3) A project plan needs to be drawn up for the XXX website development. You should draw up efforts for the functions involved in the project and submit them to your project manager. The project plan should include the order in which the functions should be developed and how long they should be developed.
 4) Determine the length and number of sprints for the XXX website.
 
-# SOLVING THE CASE
+# COMPLETION THE CASE
 
 ## Table of Contents
 
